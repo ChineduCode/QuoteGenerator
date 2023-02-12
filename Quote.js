@@ -36,7 +36,7 @@ let quotes = [
         person: `Ray Kroc`
     },
     {
-        quote: `'Everyone who's everr taken a shower has an idea. It's the person who gets out of the shower, dries off and does something about it who makes a difference.'`,
+        quote: `'Everyone who's ever taken a shower has an idea. It's the person who gets out of the shower, dries off and does something about it who makes a difference.'`,
         person: `Nolan Bushnell`
     },
     {
